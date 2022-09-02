@@ -3,6 +3,10 @@
 
   ## Description
   This application will generate a quality Readme.md file that includes details for your project. Including but not limited to; description, installation instructions, usage information, contribution guidelines, and test instructions.
+  
+  Walk through Video:
+  https://app.castify.com/view/8d769c9e-683a-48a4-bd67-508b25936e9e
+  
 
   ## Table of contents
   * [Installation](#installation)
